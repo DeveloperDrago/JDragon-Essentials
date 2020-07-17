@@ -1,0 +1,33 @@
+{
+  "name": "jdragon16-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jdragon16"
+  ],
+  "author": "JDragon16 Gaming#2248",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "bufferutil": "^4.0.1",
+    "common-tags": "^1.8.0",
+    "date-and-time": "^0.11.1",
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "enmap": "^5.2.3",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.1-security",
+    "math-expression-evaluator": "^1.2.17",
+    "mathjs": "^6.2.5",
+    "nodemon": "^2.0.2",
+    "random-puppy": "^1.1.0",
+    "sequelize": "^5.21.3",
+    "snekfetch": "^4.0.4",
+    "sqlite3": "^4.1.1",
+    "superagent": "^5.1.2"
+  }
+}
